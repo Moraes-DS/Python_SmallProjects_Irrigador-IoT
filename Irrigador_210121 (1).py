@@ -16,7 +16,7 @@ import threading
 from time import sleep
 from datetime import timedelta
 
-3CONFIGURAÇÃO DA DEFINIÇÃO DOS PINOS DO RASPBERRY PI
+#CONFIGURAÇÃO DA DEFINIÇÃO DOS PINOS DO RASPBERRY PI
 GPIO.setmode(GPIO.BOARD)
 GPIO.setwarnings(False)
 
