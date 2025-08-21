@@ -10,7 +10,7 @@ Irrigador automático com Raspberry Pi, que monitora a umidade do solo por senso
     Aguarda tempo para a próxima irrigação;  
 
     Solo úmido --> Aguarda tempo até o solo secar (led amarelo ligado);  
-    Retorna à verificação de umidade do solo;  
+    Retorna à verificação de umidade do solo;
 
   B1) Reservatório sem água (led vermelho aceso e led verde apagado);  
   B2) Esperando o refil da água no reservatório;  
